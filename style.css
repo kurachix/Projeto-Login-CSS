@@ -4,3 +4,17 @@ body {
   background-color: #dcdcdc;
 }
 
+.container {
+  text-align: center;
+  margin-top: 40px;
+}
+h2 {
+  background-color: #111;
+  color: #fff;
+  padding: 20px;
+  text-align: left;
+  width: 60%;
+  margin-left: 5%;
+  box-sizing: border-box;
+}
+
