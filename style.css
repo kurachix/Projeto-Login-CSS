@@ -18,3 +18,17 @@ h2 {
   box-sizing: border-box;
 }
 
+.login-box {
+  background: #f9f9f9;
+  width: 420px;
+  margin: 30px auto;
+  padding: 22px;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+}
+.login-box h3 {
+  text-align: left;
+  color: #1d1a39;
+  margin: 0 0 10px 0;
+}
+
